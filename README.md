@@ -3,6 +3,8 @@
 Pasta operacional do projeto Adapta Native do escritório Bellei e Peres Sociedade de Advogados.
 Aqui ficam somente a fase em andamento, as entregas, as notas e o código do sistema.
 
+Repositório: https://github.com/drkgod/bellei-peres (público, branch `main`).
+
 ## Fase atual
 
 **Fase 1 — Da pauta ao carrossel aprovado no Instagram** · 19/10/2026 a 30/10/2026
