@@ -1,0 +1,15 @@
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!**/.env.example
+**/*.log
+**/pb_data/
+**/backups/
+**/*.db
+**/*.pem
+**/*.key
+**/*.pfx
+.DS_Store
+Thumbs.db
+desktop.ini
