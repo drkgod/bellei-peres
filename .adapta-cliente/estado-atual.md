@@ -1,0 +1,21 @@
+# Estado atual — Adapta Cliente
+
+- schema_version: adapta-cliente-state/v2
+- task_id: ae72d282
+- executor: Nana (ETHOS)
+- owner_informativo: Bellei e Peres
+- spec: 04_fase-atual/specs/spec-1-001-configuracao-editorial-e-usuarios.md
+- analise: .adapta-cliente/analises/ae72d282.md
+- etapa: aguardando_teste_humano
+- autorizacao_implementacao: confirmada 2026-10-16T14:43-03:00 · trecho: "Quero começar meu projeto, qual a nossa primeira tarefa?"
+- teste_humano: pendente
+- verificacao_automatica: passou (QA setup/static/build/integrations ok; testes automatizados não rodam no template)
+- aprendizado: pendente
+- sistema: maquina-de-conteudo
+- skip_projeto: 66919
+- skip_versao: a0d29d7
+- skip_publicacao: publicada:a0d29d7 em 2026-10-16T18:10:46Z
+- pendente_github: nao
+- ultima_acao: implementacao aplicada, publicada e provada no Skip (versao a0d29d7)
+- proxima_acao: aguardar teste humano da SPEC-1-001 e confirmacao do perfil do primeiro ciclo na call de inicio
+- atualizado_em: 2026-10-16T15:11:00-03:00
