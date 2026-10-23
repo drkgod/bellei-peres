@@ -12,3 +12,5 @@
     entidade que exija auditoria de alterações.
 - **Motivo do registro:** única entrega desta data com construção real; padrão de hooks do Skip
   descoberto/validado durante a execução e reutilizável nas próximas tasks.
+
+## 2026-10-23T14:57:00-03:00 · task ae72d282 · capturado:06_notas/aprendizado-continuo/AP-2026-10-23-1455-detecao-trabalho-fora-fluxo.md · sinal: comparar lastPublishedRef com plataforma.md em toda retomada/parada/antes de publicar; divergência → DÚVIDA no changelog.

@@ -6,16 +6,16 @@
 - owner_informativo: Bellei e Peres
 - spec: 04_fase-atual/specs/spec-1-001-configuracao-editorial-e-usuarios.md
 - analise: .adapta-cliente/analises/ae72d282.md
-- etapa: aguardando_teste_humano
+- etapa: concluida
 - autorizacao_implementacao: confirmada 2026-10-16T14:43-03:00 · trecho: "Quero começar meu projeto, qual a nossa primeira tarefa?"
-- teste_humano: pendente
+- teste_humano: aprovado 2026-10-23T14:50-03:00 · trecho: "Testei e funcionou" (roteiro da SPEC-1-001: perfil completo, versão 2 no histórico, sem mudança sem versão nova, tema vedado recusado)
 - verificacao_automatica: passou (QA setup/static/build/integrations ok; testes automatizados não rodam no template)
-- aprendizado: pendente
+- aprendizado: capturado:06_notas/aprendizado-continuo/controle.md
 - sistema: maquina-de-conteudo
 - skip_projeto: 66919
-- skip_versao: a0d29d7
-- skip_publicacao: publicada:a0d29d7 em 2026-10-16T18:10:46Z
+- skip_versao: b4d7bb3 (publicada; inclui trabalho de 22/10 não registrado no fluxo — ver changelog)
+- skip_publicacao: publicada:b4d7bb3 (data da publicação não registrada no fluxo; versão testada pelo cliente em 23/10)
 - pendente_github: nao
-- ultima_acao: implementacao aplicada, publicada e provada no Skip (versao a0d29d7)
-- proxima_acao: aguardar teste humano da SPEC-1-001 e confirmacao do perfil do primeiro ciclo na call de inicio
-- atualizado_em: 2026-10-16T15:11:00-03:00
+- ultima_acao: task ae72d282 concluída 23/10 — teste humano aprovado; evidências revalidadas (coleções/regras no ar, versão publicada b4d7bb3 igual à testada); fase.md, STATUS, changelog e aprendizado atualizados
+- proxima_acao: selecionar a próxima task da fase (cef32408) e apresentar análise para autorização
+- atualizado_em: 2026-10-23T14:58:00-03:00

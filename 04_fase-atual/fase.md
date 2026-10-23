@@ -41,10 +41,10 @@ tarefas que já têm um.
   - [ ] Criar a conta no GitHub e o projeto do sistema no Skip @"Bellei e Peres" !20/10/2026  <!-- id:d8ffc0c6-e5f7-4ad2-a246-deeca04ca99c -->
     > Criar a conta do escritório no GitHub e um projeto novo no Skip para a Máquina de Conteúdo; mandar o nome da conta e o link do projeto no grupo.
     > Ref.: SPEC-1-001 · pré-condições CL-002 e CL-003.
-  - [ ] Confirmar o perfil do Instagram e quem pode aprovar @"Bellei e Peres" !20/10/2026  <!-- id:cabc4cc3-aecc-45f7-89dc-7ac1844732de -->
+  - [x] Confirmar o perfil do Instagram e quem pode aprovar @"Bellei e Peres" !20/10/2026  <!-- id:cabc4cc3-aecc-45f7-89dc-7ac1844732de -->
     > Dizer qual perfil do Instagram entra primeiro (sugestão: o do escritório), o @ do perfil, quem vai usar o sistema e quem pode aprovar conteúdo; se houver outros temas proibidos além de direito criminal, informar também.
     > Ref.: SPEC-1-001 · pré-condições CL-PEND-004, CL-PEND-005 e CL-PEND-006.
-  - [ ] Cadastrar o perfil editorial com público, áreas e temas vedados @"Bellei e Peres" !21/10/2026  <!-- id:ae72d282-2e84-4a78-a8b8-f0d7a4fba325 -->
+  - [x] Cadastrar o perfil editorial com público, áreas e temas vedados @"Bellei e Peres" !21/10/2026  <!-- id:ae72d282-2e84-4a78-a8b8-f0d7a4fba325 -->
     > Na tela Configuração, salvar o perfil com público (empresas), áreas (trabalhista, empresarial, cível e previdenciário), tom e temas vedados; trocar o público uma vez para conferir que o histórico registra quem mudou e quando.
     > Ref.: SPEC-1-001 · CA-1-01, CA-1-02 · prova: GREEN 1–2 e REGRESSÃO.
   - [ ] Cadastrar os usuários e marcar quem pode aprovar @"Bellei e Peres" !22/10/2026  <!-- id:cef32408-a46a-481f-b816-a267f7354d97 -->
